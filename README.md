@@ -1,1 +1,3 @@
-# E-Commerce_Website_using_python
+# E-Commerce Website using python
+E-Commerce Website with its own authentication system using
+flask python web framework. 
